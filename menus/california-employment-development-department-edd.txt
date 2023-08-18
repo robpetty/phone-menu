@@ -1,0 +1,25 @@
+Goal: Talk to a person concerning your unemployment insurance (UI) claim.
+
+EDD Customer Service
+UI Online
+
+1-800-300-5616 or 833-978-2511
+
+Phone Menu (8 to repeat)
+1 - English (spanish is 2)
+1 - regular claim stuff (employers at 2)
+1 - EDD telecert by phone, new claim etc (overpayment 2, 1099-G tax for 3)
+
+enter social
+1 - Correct, 2 - renter
+
+uncommon questions (* to start over)
+2 - no, military stuff
+2 - no, work for feds
+2 - no, wages from out of state
+
+Please hold while transfered, if you don't get kicked off...
+
+2 - no (decline survery after all)
+
+Wait time given.
