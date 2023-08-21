@@ -1,0 +1,14 @@
+Goal: Talk to a person, as primary customer serivce line currently has no option to speak to a person.
+
+Tesla
+Service
+
+1-415-268-9487 (SF) or 1-925-210-1792 (Walnut Creek)
+
+Phone Menu
+1 - Vehicles
+2 - Service
+
+Say "service" - when asked for reason for call. Will be transfered to a rep.
+
+NOTE: Google office hours for Teslta locations do not match phone system.  Also phone system states 8-8, but hangs up in those hours randomly.
